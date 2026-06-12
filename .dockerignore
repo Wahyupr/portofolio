@@ -1,0 +1,10 @@
+node_modules
+.next
+out
+build
+*.log
+.env*
+.git
+.agents
+.codex
+tsconfig.tsbuildinfo
